@@ -1,0 +1,14 @@
+body {
+    background-image: linear-gradient(to bottom, #fff, #000 );
+}
+
+.omaigoto {
+    text-align: center;
+    vertical-align: top;
+    padding: 30px;
+}
+
+.botao {
+    border-radius: 5px;
+    color: palevioletred;
+}
