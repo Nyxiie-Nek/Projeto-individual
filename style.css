@@ -8,7 +8,8 @@ body {
     padding: 30px;
 }
 
-.botao {
+.butao {
     border-radius: 5px;
     color: palevioletred;
+    text-align: center;
 }
